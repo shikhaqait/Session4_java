@@ -1,0 +1,7 @@
+ID         Name       Address     Course    YOJ   Designation    Salary
+
+1221     Umang       G-21, Noida  Maths             2006    Senior-Proffessor  100000
+1222     Udit        G-22, Noida  English           2006    Senior-Proffessor  100000
+1223     Ruchit      G-23, Noida  Chemistry         2007    Senior-Proffessor  100000
+1224     Vivek       G-24, Noida  Sports            2014    Proffessor         50000
+1225     Nishant     G-25, Noida  Computer Science  2008 Senior-Proffessor 75000

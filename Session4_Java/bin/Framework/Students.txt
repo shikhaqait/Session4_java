@@ -1,0 +1,8 @@
+ID     Name    Address   Course   Year   Fees
+
+1991     Shikha  A-8, New Delhi B.tech 2013  3,00000
+1992     Kanika  A-9, New Delhi B.tech 2007  1,00000
+1993     Sarthak A-10, Noida    MCA    2007  50,000
+1994     Nishant A-11, Noida    B.tech 2013  3,00000
+1995     Shivam  A-12, Noida    MCA    2015  2,00000
+
